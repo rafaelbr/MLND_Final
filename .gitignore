@@ -97,5 +97,9 @@ ENV/
 # mkdocs documentation
 /site
 
+#npy
+*.npy
+/data
+
 # mypy
 .mypy_cache/
